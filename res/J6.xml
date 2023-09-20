@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright 2013 Philip Schiffer
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+<notices>
+    <notice>
+        <name>Android About Page</name>
+        <url>https://github.com/medyo/android-about-page</url>
+        <copyright>Copyright (c) 2016 Mehdi Sakout</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>AndroidSlidingUpPanel</name>
+        <url>https://github.com/deano2390/MaterialShowcaseView</url>
+        <copyright>Copyright 2015 Anton Lopyrev</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>AndroidVuMeter</name>
+        <url>https://github.com/HugoGresse/AndroidVuMeter</url>
+        <copyright>Copyright 2015 Hugo Gresse</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>AndroidX Support Libraries</name>
+        <url>https://developer.android.com/jetpack/androidx</url>
+        <copyright>Copyright 2014 The Android Open Source Project</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Advanced RecyclerView</name>
+        <url>https://github.com/h6ah4i/android-advancedrecyclerview</url>
+        <copyright>Copyright (C) 2015 Haruki Hasegawa</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>amplify</name>
+        <url>https://github.com/stkent/amplify</url>
+        <copyright>Copyright 2015 Stuart Kent</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Audiogram</name>
+        <url>https://github.com/alxrm/audiowave-progressbar</url>
+        <copyright>Copyright (c) 2016 Alexey Derbyshev</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>EventBus</name>
+        <url>http://greenrobot.org/</url>
+        <copyright>Copyright (C) 2012-2017 Markus Junginger, greenrobot</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Glide</name>
+        <url>https://github.com/deano2390/MaterialShowcaseView</url>
+        <copyright>Copyright 2014 Google, Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Gson</name>
+        <url>https://github.com/google/gson</url>
+        <copyright>Copyright 2008 Google Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>kotlin</name>
+        <url>https://github.com/JetBrains/kotlin</url>
+        <copyright>Copyright kotlin contributors.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Material Contextual Action Bar</name>
+        <url>https://github.com/afollestad/material-cab</url>
+        <copyright>Copyright 2016 Aidan Follestad</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Material Dialogs</name>
+        <url>https://github.com/afollestad/material-dialogs</url>
+        <copyright>Copyright 2018 Aidan Follestad</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>MaterialDrawer</name>
+        <url>https://github.com/mikepenz/MaterialDrawer</url>
+        <copyright>Copyright 2016 Mike Penz</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>MaterialNumberPicker</name>
+        <url>https://github.com/StephenVinouze/MaterialNumberPicker</url>
+        <copyright>Copyright Stephen Vinousze</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>MaterialShowcaseView</name>
+        <url>https://github.com/deano2390/MaterialShowcaseView</url>
+        <copyright>Copyright 2015 Dean Wild</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Number Picker</name>
+        <url>https://github.com/ShawnLin013/NumberPicker</url>
+        <copyright>Copyright (c) 2018 ShawnLin013</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>Oboe</name>
+        <url>https://github.com/google/oboe</url>
+        <copyright>Copyright 2017 Google, Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>OkHttp</name>
+        <url>https://github.com/square/okhttp/</url>
+        <copyright>Copyright 2019 Square, Inc.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Paper</name>
+        <url>https://github.com/pilgr/Paper</url>
+        <copyright>Copyright 2015 Aleksey Masny</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>PermissionsDispatcher</name>
+        <url>https://github.com/permissions-dispatcher/PermissionsDispatcher</url>
+        <copyright>Copyright 2016 Shintaro Katafuchi, Marcel Schnelle, Yoshinori Isogai</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>RecyclerView-FastScroll</name>
+        <url>https://github.com/timusus/RecyclerView-FastScroll</url>
+        <copyright>Copyright (C) 2016 Tim Malseed</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>RecyclerViewHeader</name>
+        <url>https://github.com/blipinsk/RecyclerViewHeader</url>
+        <copyright>Copyright 2015 Bartosz Lipiński</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>RxAndroidAudio</name>
+        <url>https://github.com/Piasy/RxAndroidAudio</url>
+        <copyright>Copyright (c) 2016 Piasy</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>RxJava: Reactive Extensions for the JVM</name>
+        <url>https://github.com/ReactiveX/RxJava</url>
+        <copyright>Copyright (c) 2016-present, RxJava Contributors</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>SectionedRecyclerViewAdapter</name>
+        <url>https://github.com/luizgrp/SectionedRecyclerViewAdapter</url>
+        <copyright>Copyright (c) 2016 Gustavo Pagani</copyright>
+        <license>MIT License</license>
+    </notice>
+    <notice>
+        <name>vector-compat</name>
+        <url>https://github.com/wnafee/vector-compat</url>
+        <copyright>Copyright 2015 Wael Nafee</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>VerticalSeekBar</name>
+        <url>https://github.com/h6ah4i/android-verticalseekbar</url>
+        <copyright>Copyright (C) 2015 Haruki Hasegawa</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>
